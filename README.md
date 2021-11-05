@@ -1,8 +1,8 @@
 # Welcome to my GitHub 🐙!
-- 👋 Hi, I’m @sarramargi
+- 👋 Hi, I’m @sarramargi, a 24 y.o woman working as a software engineer intern.
 - 💚 Python & Matlab lover
 - 🌱 I’m currently learning how to use Deep Learning algorithms
-<br/> Main goal: segment endometriums on ultrasound images to improve clinical pregnancies
+<br/> Main goal: segment endometrium on ultrasound images to improve clinical pregnancies
 - ✨ I would love to be part of other inspiring biomedical projects
 - 🙋‍♀️ Want to get in touch? 💬 on LinkedIn: [**SarraMargi**](https://www.linkedin.com/in/sarra-margi/)
 
