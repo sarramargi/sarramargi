@@ -1,5 +1,5 @@
 # Welcome to my GitHub 🐙!
-- 👋 Hi, I’m @sarramargi, a 24 y.o woman working as a software engineer intern.
+- 👋 Hi! I’m @sarramargi, a 24 y.o woman working as a software engineer intern
 - 💚 Python & Matlab lover
 - 🌱 I’m currently learning how to use Deep Learning algorithms
 <br/> Main goal: segment endometrium on ultrasound images to improve clinical pregnancies
